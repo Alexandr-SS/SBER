@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+.nav {
+    height: 30px;
+    background-color: white;
+    font-size: 12px;
+}
+a {
+    margin-left: 20px;
+}
+.bank {
+    margin-left: 100px;
+    text-transform: uppercase ;
+    color: #1ea827;
+    font-size: 12px;
+    font-weight: bold;
+}
+.kab {
+    color: #1ea827;
+}
+div {
+    height: 200px;
+    background-color: #0d142f;
+}
+p {
+    margin-left: 200px;
+    color: white;
+}
+button {
+    margin-left: 200px;
+    background-color: #0d142f;
+    font-size: 10px;
+    height: 35px;
+}
+.button {
+    margin-left: 0;
+    color: white;
+}
+.sber {
+    margin-left: 200px;
+    font-size: 22px;
+}
+.display {
+    display: flex;
+    background-color: white;
+    height: 300px;
+}
+.left {
+    width: 50%;
+    height: 300px;
+    background-color: white;
+}
+h2 {
+    margin-left: 200px;
+}
+time {
+    margin-left: 200px;
+}
+.new {
+    color: black;
+}
+.richt {
+    width: 50%;
+    height: 300px;
+    background-color: white;
+}
